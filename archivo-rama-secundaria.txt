@@ -1,2 +1,7 @@
-estoy en la secundariaS
+<<<<<<< HEAD
+estoy en la secundaria
 edicion del archivo rama secundaria desde la master
+=======
+estoy en la secundaria
+estoy de nuevo en la rama secundaria
+>>>>>>> rama-secundaria
