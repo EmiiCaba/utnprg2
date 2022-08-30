@@ -1,1 +1,2 @@
 estoy en la secundaria
+edicion del archivo rama secundaria desde la master
